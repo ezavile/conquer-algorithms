@@ -1,0 +1,14 @@
+{
+  "name": "conquer-algorithms",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:ezavile/conquer-algorithms.git",
+  "author": "Edgar Zavala <ezavile@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "26.1.0"
+  }
+}
